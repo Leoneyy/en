@@ -23,6 +23,17 @@
 		"swap": 0.0,
 		"current_price": 0.93128
 	}, {
+		"order_id": 205222127,
+		"account": 11950627,
+		"symbol": "AUDCAD",
+		"trade_type": "BUY",
+		"open_price": 0.93274,
+		"open_datetime": "2026-01-07T05:45:01",
+		"size": 0.01,
+		"profit": -1.05,
+		"swap": 0.0,
+		"current_price": 0.93128
+	}, {
 		"order_id": 504922519,
 		"account": 11950627,
 		"symbol": "NZDCAD",

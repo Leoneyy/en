@@ -1,1 +1,49 @@
 
+{
+	"total": 4,
+	"result": [{
+		"order_id": 505037457,
+		"account": 11950627,
+		"symbol": "AUDCAD",
+		"trade_type": "BUY",
+		"open_price": 0.92913,
+		"open_datetime": "2026-01-07T13:09:45",
+		"size": 0.02,
+		"profit": 3.1,
+		"swap": 0.0,
+		"current_price": 0.93128
+	}, {
+		"order_id": 505222127,
+		"account": 11950627,
+		"symbol": "AUDCAD",
+		"trade_type": "BUY",
+		"open_price": 0.93274,
+		"open_datetime": "2026-01-07T05:45:01",
+		"size": 0.01,
+		"profit": -1.05,
+		"swap": 0.0,
+		"current_price": 0.93128
+	}, {
+		"order_id": 205222127,
+		"account": 11950627,
+		"symbol": "AUDCAD",
+		"trade_type": "BUY",
+		"open_price": 0.93274,
+		"open_datetime": "2026-01-07T05:45:01",
+		"size": 0.01,
+		"profit": -1.05,
+		"swap": 0.0,
+		"current_price": 0.93128
+	}, {
+		"order_id": 504922519,
+		"account": 11950627,
+		"symbol": "NZDCAD",
+		"trade_type": "BUY",
+		"open_price": 0.7983,
+		"open_datetime": "2026-01-06T08:30:06",
+		"size": 0.01,
+		"profit": 1.11,
+		"swap": 0.0,
+		"current_price": 0.79984
+	}]
+}
